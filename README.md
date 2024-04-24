@@ -31,9 +31,10 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/KhaiCyberSeck.png" alt="TryHackMe">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaicybers&show_icons=true&locale=en" alt="khaicybers" /></p> -->
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7ED1A&random=false&width=435&lines=Hi%2C+KhaiCybers+founder+CyberTeam;React+%26+Bot+Discord;Botnet+Connddioss;I+am+a+React+Developer+From+Vietnam" /></a>
+</p>
 <h1 align="center">Hi 👋, I'm Duy Khải</h1>
-<h3 align="center">I am a React Developer From Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadokine&label=Profile%20views&color=0e75b6&style=flat" alt="hadokine" /> </p>
 
