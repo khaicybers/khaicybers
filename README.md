@@ -40,7 +40,7 @@
 
 <p align="left"> <a href="https://twitter.com/duykhai69" target="blank"><img src="https://img.shields.io/twitter/follow/duykhai69?logo=twitter&style=for-the-badge" alt="duykhai69" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **IOS, Python, Javascript**
 
