@@ -70,7 +70,7 @@
 
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khaicybers&theme=discord_old_blurple" alt="khaicybersec" /></p>
 
-<p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khaicybers&theme=discord_old_blurple&utcOffset=8" alt="khaicybersec" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khaicybers&theme=discord_old_blurple&utcOffset=8" alt="khaicybersec" /></p>
 
 
 
