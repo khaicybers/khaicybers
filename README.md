@@ -6,11 +6,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7ED1A&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Duy+Kh%E1%BA%A3i;React+Developer+from+Vietnam;Founder+of+PWSTEAM;Passionate+about+React+%26+Discord+Bots" />
 </p>
-
----
+<!-- <p><img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="300" /></p>
+--- -->
 
 ## 🌟 About Me
-<p><img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="300" /></p>
 I'm **Duy Khải**, a passionate **React Developer** from Vietnam, with a knack for building dynamic web applications and Discord bots. As the founder of **CyberTeam**, I love exploring new technologies and sharing my knowledge with the community. My current focus is on mastering **React**, **JavaScript**, and **Python**, while dabbling in a variety of tools and frameworks.
 
 - 🌱 **Currently Learning**: Advanced React and modern web development techniques
